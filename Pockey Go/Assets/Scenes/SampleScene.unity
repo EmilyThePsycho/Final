@@ -14144,11 +14144,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7174246026199188044, guid: a48714e39c2ecc644b62544a3a53c53a, type: 3}
       propertyPath: m_Mass
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7174246027539500280, guid: a48714e39c2ecc644b62544a3a53c53a, type: 3}
       propertyPath: m_Mass
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7174246027598809766, guid: a48714e39c2ecc644b62544a3a53c53a, type: 3}
       propertyPath: m_Name
